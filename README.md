@@ -1,5 +1,5 @@
 # javelineeCMS
-javelineeCMS is content management system which is created for automation SEO system.
+javelineeCMS is content management system which is created for automation SEO system.<br>
 [Demo Javelinee](https://javelinee.com)
 
 ## No Update for Future Version

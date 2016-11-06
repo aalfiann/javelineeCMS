@@ -1,0 +1,59 @@
+
+Changelog Javelinee CMS 2.4:
+	Bug Fixed
+	- Maintenance mode not disappear when login with admin as master user.
+	- Suspended mode not work when in maintenance mode. 
+
+Changelog Javelinee CMS 2.3:
+	New Feature
+	- Auto configuration for load page speed now is more fast and efficients
+
+Changelog Javelinee CMS 2.2:
+	Bug Fixed
+	- Advertise System has issues in nginx server
+
+Changelog Javelinee CMS 2.1:
+	New Feature
+	- Advertise System
+	- Setting Timezone
+	- Tester page
+	- Function rotate banner
+	- Format Local time support Indonesian
+
+	Updated
+	- File database javelineemaster.sql
+	- Core content system 
+
+
+Changelog Javelinee CMS 2.0.3:
+	Revision
+	- File database javelineemaster.sql
+	- class.custom is invalid case sensitive
+	- List populer always show even the article is going to draft
+	 
+
+Changelog Javelinee CMS 2.0:
+	New Feature
+	- Theme now very easy to customize because it have new class custom
+
+	Updated
+	- Upload folder hasbeen moved to root, for easy update core javelinee
+	- Database hasbeen restructure for more fast query
+
+
+Changelog Javelinee CMS 1.8.4:
+	New Feature
+	- Now you can change category of images and files.
+
+	Bug Fixed
+	- Responsive view images is not good
+	- Pagination page widget not working
+	- Count data widget not working
+	- lock.me template is broken in the latest browser
+
+Changelog Javelinee CMS 1.8.3:
+	Revision
+	- Database now has index to make load more faster
+
+	Bug Fixed
+	- ComboBox selected not working

@@ -1,0 +1,2 @@
+<p><?= $site['copyright'] ?></p>
+

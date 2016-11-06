@@ -1,0 +1,104 @@
+/*!
+ * Javelinee Bootstrap - Default Javelinee Template (http://javelinee.com)
+ * Theme framework based Twitter Bootstrap  
+ * @author: M ABD AZIZ ALFIAN <aalfiann@gmail.com>
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 10px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+.intro-section {
+    height: 100%;
+    padding-top: 0px;
+    text-align: center;
+    background: #111;
+}
+
+.about-section {
+    
+    padding-top: 50px;
+    text-align: center;
+    background: #000;
+}
+
+.features-section {
+    
+    padding-top: 50px;
+    text-align: left;
+    background: #111;
+}
+
+.services-section {
+    
+    padding-top: 50px;
+    text-align: left;
+    background: #000;
+}
+
+.prices-section {
+    
+    padding-top: 50px;
+    text-align: left;
+    background: #111;
+}
+
+.portfolio-section {
+    
+    padding-top: 50px;
+    text-align: center;
+    background: #000;
+}
+
+.contact-section {
+    
+    padding-top: 50px;
+    text-align: left;
+    background: #111;
+}
+
+/* Home Page Carousel */
+
+header.carousel.full {
+    height: 100%;
+}
+
+header.carousel.full .item,
+header.carousel.full .item.active,
+header.carousel.full .carousel-inner {
+    height: 100%;
+}
+
+header.carousel.full .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.back-to-top { text-align: center; background: #000; color: #fff; display: none; width: 40px; height: 40px; line-height: 40px; font-size: 12px; position: fixed; right: 20px; bottom: 20px; opacity: 0.4; cursor: pointer; z-index: 9999; }
+.back-to-top:hover { opacity: 1; }
